@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    background-color: cadetblue;
+}
+
+button {
+    font-size: 16px;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    border: none;
+}
+
+#rijec{
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+    color: black;
+    width: auto;
+    margin: auto;
+    padding: 5px;
+}
+
+#next{
+    background-color: #4CAF50;
+    color: white;
+}
+
+#odg{
+    border: solid black 2px;
+    background-color: white;
+    color: black;
+    
+}
