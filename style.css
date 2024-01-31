@@ -27,6 +27,7 @@ button {
 }
 
 #odg{
+    margin: 15px;
     border: solid black 2px;
     background-color: white;
     color: black;

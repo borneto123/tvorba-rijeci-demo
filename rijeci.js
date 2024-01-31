@@ -96,7 +96,7 @@ const suf = [
         document.getElementById("rez").innerHTML= "TOČNO";
       }
       else{
-        document.getElementById("rez").innerHTML= "KIRVO";
+        document.getElementById("rez").innerHTML= "KRIVO";
       }
 
       let rez = "";
